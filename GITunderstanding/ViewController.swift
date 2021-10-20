@@ -17,6 +17,11 @@ class ViewController: UIViewController {
         //Hi Git!!! Nr 1 commit
     }
 
+    
+    func gitIT(){
+       // my 2nd Git
+    }
+    
 
 }
 
